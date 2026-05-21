@@ -40,6 +40,9 @@ The prompts were designed to:
 - Marketing-focused content creation
 - Website content strategy
 
+- ## Live Website
+[View Website Here](https://family-first-store.lovable.app/)
+
 ## Disclaimer
 This is an educational client simulation project inspired by D-Mart’s local retail shopping experience.
 This project is not officially associated with D-Mart.
